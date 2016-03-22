@@ -1,5 +1,4 @@
 # lzd_test_assessment
-# Cucumber watir test suite example
 
 This test suite created as test assessment for QAA position at Lazada Tech-Hub
 
