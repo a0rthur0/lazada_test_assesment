@@ -6,9 +6,9 @@ This test suite created as test assessment for QAA position at Lazada Tech-Hub
 
 For linux machines:
 
-- Download tproject
-- Make sure you have ruby 1.8 or later installed.
-- Make sure you have firefox and/or chrome installed
+- Download project
+- Make sure you have ruby 2.1 or later installed.
+- Make sure you have firefox installed
 - Install the bundler gem:
 
     $ gem install bundler
